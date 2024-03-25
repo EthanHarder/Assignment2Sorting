@@ -1,0 +1,19 @@
+Introduction:
+	The plan for this assignment was to perform the merge and quick sort to improve familiarity, as well as coding merge sort.
+
+the merge sort and quick sort processes are provided (in a png i believe?).
+It is included in that image, but when it comes to time complexity, merge sort is generally superior. This is because they are generally similar in the best and average cases at O(n log n), but merge sort does not slow down during the worst case, while quick sort bloats to O(n^2).
+
+
+As for the merge sort code....
+
+Well i got the code itself working, only so many ways you can do a merge sort haha.
+As for the visual component....I spent sooooo long trying to figure out sfml, but with no prior knowledge this was a massive leap I shouldn't have attempted in hindsight. :(
+
+
+In conclusion: 
+Merge sort and quick sort are both effect sorting algorithms as datasets get larger compared to more costly methods like Insertion/Bubble sort, and between them Merge sort is more consistant.
+
+Also, the actual points in which shifts occer in merge sort are very intricate, and it made it hard to add additional logic between recursive calls (for some reason, it doesn't sound like a big problem on paper).
+Also, sfml is NOT as beginner friendly as i was led to believe.
+Yeah...not my best showing, but these things happen i guess...
